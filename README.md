@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...python webdevlopement,DSA and AI-ML
 - 🌱 I’m currently learning ...python language and c language 
 
-- 📫 How to reach me ... uvpatel@gmail.com
+- 📫 How to reach me ... uvpatel7271@gmail.com
 
 
 <!---
