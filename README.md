@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @uvpatel
 - 👀 I’m interested in ...python webdevlopement,DSA and AI-ML
-- 🌱 I’m currently learning ...python language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ...python language and c language 
+
+- 📫 How to reach me ... uvpatel@gmail.com
+
 
 <!---
 uvpatel/uvpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
