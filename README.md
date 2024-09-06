@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uvpatel
+- 👋 Hi, I’m Urvil Patel 
 - 👀 I’m interested in ...python webdevlopement,DSA and AI-ML
 - 🌱 I’m currently learning ...python language and c language 
 
