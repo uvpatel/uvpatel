@@ -1,16 +1,27 @@
-- 👋 Hi, I’m Urvil Patel 
-- Currently, pursuing a B.Tech in Computer Engineering.
-- 👀 I’m currently working on ...HTML,CSS for web development 
-- 🌱 I’m currently learning ...python language and c language for programming fundamentals and interest.
-- 💬 ask me about html,css,python and c.
-- 🔭 Explored library in puthon pandas and numpy.
+# 👋 Hi, I’m Urvil Patel 
+
+**🎓 B.Tech in Computer Engineering | Passionate about Coding and Web Development**
+
+- 🌱 I’m currently learning **Python** and **C** for programming fundamentals and exploring **HTML** and **CSS** for web development.
+- 🔍 Interested in data analysis with Python libraries like **Pandas** and **NumPy**.
+- 🔍 Interested in AI-ML with Python libraries like **TensorFlow ** and frame work like **Pytorch **.
+- 💬 Ask me about **HTML, CSS, Python, and C programming**.
+- 🚀 Currently working on improving my web development skills and enhancing my knowledge of programming languages.
+
+---
+
+### 📈 Projects & Interests
+- **Web Development**: Building interactive and responsive websites with HTML and CSS.
+- **Python Programming**: Exploring data analysis, file handling, and other core Python concepts.
+- **Data Science**: Learning and experimenting with data manipulation and visualization using **Pandas** and **NumPy**.
+
+---
+
+### 🌐 Let's Connect!
+- 📫 Reach me at **uvpatel7271@gmail.com**
+
+---
+
+> **Fun Fact:** I’m always exploring new things daily to grow my skills and knowledge.
 
 
-
-- 📫 How to reach me ... uvpatel7271@gmail.com
-
-
-<!---
-uvpatel/uvpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
