@@ -50,7 +50,9 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="24"/>](https://github.com/uvpatel)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/urvil-patel-6995a0320)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/patelurvilv/)
-📧 **Email**: [uvpatel7271@gmail.com](mailto:uvpatel7271@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:uvpatel7271@gmail.com)
+
+
 
 
 
