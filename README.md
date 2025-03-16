@@ -27,7 +27,7 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 ---
 
 ## My Projects
-- [Py-pro](https://github.com/uvpatel/Py-pro) - A collection of small Python projects showcasing my learning and exploration in Python programming. Projects include:
+- [Python-Projects](https://github.com/uvpatel/Python-Projects) - A collection of small Python projects showcasing my learning and exploration in Python programming. Projects include:
   - **Quiz Game**: An interactive quiz game testing general knowledge.
   - **Rent Calculator**: A tool to calculate rent splits among roommates.
   - **Spelling Checker**: An application that checks and suggests corrections for misspelled words.
