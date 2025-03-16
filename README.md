@@ -52,6 +52,7 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/patelurvilv/)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:uvpatel7271@gmail.com)
 
+
 ---
 
 ## Fun Fact
