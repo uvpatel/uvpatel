@@ -49,8 +49,8 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 ## Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="24"/>](https://github.com/uvpatel)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/urvil-patel-6995a0320)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/yourhandle)
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:your.email@example.com)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/patelurvilv/)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:your.uvpatel7271@gmail.com)
 
 ---
 
