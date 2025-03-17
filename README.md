@@ -26,32 +26,45 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 
 ---
 
+## 🚀 What I'm Working On
+🔹 Enhancing my **Python** skills with advanced projects.  
+🔹 Learning **Tailwind CSS** to improve my web development.  
+🔹 Exploring **AI-ML** to build intelligent applications.  
+
+---
+
 ## My Projects
-- [Python-Projects](https://github.com/uvpatel/Python-Projects) - A collection of small Python projects showcasing my learning and exploration in Python programming. Projects include:
-  - **Quiz Game**: An interactive quiz game testing general knowledge.
-  - **Rent Calculator**: A tool to calculate rent splits among roommates.
-  - **Spelling Checker**: An application that checks and suggests corrections for misspelled words.
-  - **Tic-Tac-Toe**: A classic tic-tac-toe game for two players.
-  - **Number Guessing Game**: A game where the player guesses a randomly generated number within a range.
-- [Web-Projects](https://github.com/uvpatel/Web-Projects) - A repository containing various web development projects, including:
-  - **Medical Web**: A website designed for medical services and information.
-  - **Personal Portfolio**: My personal portfolio showcasing my skills, projects, and contact information.
-- [Major-Projects](https://github.com/uvpatel/Major-Projects) - A compilation of significant projects undertaken during my academic journey, demonstrating my ability to tackle complex problems and implement effective solutions.
+### 🔹 Python Projects  
+📌 [**Python-Projects**](https://github.com/uvpatel/Python-Projects) – A collection of small Python projects showcasing my learning and exploration.  
+- **Quiz Game**: An interactive quiz game testing general knowledge.  
+- **Rent Calculator**: A tool to calculate rent splits among roommates.  
+- **Spelling Checker**: An application that checks and suggests corrections for misspelled words.  
+- **Tic-Tac-Toe**: A classic tic-tac-toe game for two players.  
+- **Number Guessing Game**: A game where the player guesses a randomly generated number within a range.  
+
+### 🔹 Web Development Projects  
+📌 [**Web-Projects**](https://github.com/uvpatel/Web-Projects) – A repository containing various web development projects.  
+- **Medical Web**: A website designed for medical services and information.  
+- **Personal Portfolio**: My personal portfolio showcasing my skills, projects, and contact information.  
+
+### 🔹 Major Projects  
+📌 [**Major-Projects**](https://github.com/uvpatel/Major-Projects) – A compilation of significant projects undertaken during my academic journey.  
 
 ---
 
-## GitHub Stats
-![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvpatel&theme=dracula)
+## 📊 GitHub Stats
+![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvpatel&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=dracula)  
 
 ---
 
-## My Contribution
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+## 📈 My Contributions
+![Snake animation](https://github.com/uvpatel/uvpatel/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## Connect with Me
+## 🌍 Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="24"/>](https://github.com/uvpatel)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/urvil-patel-6995a0320)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/patelurvilv/)
@@ -59,7 +72,7 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 
 ---
 
-## Fun Fact
+## 🎉 Fun Fact
 > "Code is like poetry—sometimes it rhymes, sometimes it crashes!"
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
