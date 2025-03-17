@@ -60,7 +60,7 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 ---
 
 ## 📈 My Contributions
-![Snake animation](https://github.com/uvpatel/uvpatel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
