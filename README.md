@@ -26,9 +26,12 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 ---
 
 ## 🚀 What I'm Working On
-🔹 Enhancing my **Python** skills with advanced projects.  
-🔹 Learning **Tailwind CSS** to improve my web development.  
-🔹 Exploring **AI-ML** to build intelligent applications.  
+
+- 🚀 **Enhancing Python** skills with advanced projects.
+- 🎨 **Learning Tailwind CSS** to level up my web development.
+- 🤖 **Exploring AI & ML** to build intelligent applications.
+- 🐍 **Sharpening Data Structures & Algorithms** knowledge in Python.
+
 
 ---
 
