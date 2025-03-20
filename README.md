@@ -56,7 +56,7 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 
 ## 📊 GitHub Stats
 ![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvpatel&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvpatel&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=dracula)  
 
 ---
