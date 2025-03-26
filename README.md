@@ -1,41 +1,53 @@
-# Hi, I'm Urvil! 👋
+# Hi, I'm Urvil! 👋  
+*B.Tech CSE Student | Python & C Programmer | Web Developer | AI/ML Explorer*
 
-I'm a B.Tech student passionate about coding, web development, and exploring AI-ML. I love turning ideas into projects with Python, C, HTML, and CSS!
-
----
-
-## About Me
-- 🌱 **Learning**: Python, C, HTML, CSS, and diving into AI-ML.
-- 💻 **Interests**: Building websites, analyzing data, and experimenting with code.
-- 🎯 **Goal**: Create impactful projects and share them with the community!
+I’m passionate about turning ideas into real-world projects. I love coding, building websites, and diving into AI/ML to create intelligent solutions that make life easier.
 
 ---
 
-## Skills
-| Skill        | Level         |
-|--------------|---------------|
+## 📖 About Me
+- 🌱 *Currently Learning:* Advanced Python, Tailwind CSS, Data Structures & Algorithms, AI/ML fundamentals
+- 💻 *Tech Interests:* Full-stack web development, AI-ML, Python projects, problem-solving
+- 🎯 *Goal:* Build impactful projects, contribute to open source, and grow with the tech community
+- 💡 *What Drives Me:* Solving real problems with code—whether it’s a game, a tool, or an AI experiment!
+
+---
+
+## 🛠 Skills & Tools
+| 💪 Skill      | 🔥 Level                     |
+|---------------|-----------------------------|
 | Python       | Intermediate  |
-| C            | Beginner      |
-| HTML/CSS     | Intermediate  |
-| AI-ML        | Exploring     |
+| C            | Beginner   |
+| HTML5 / CSS3 | Intermediate  |
+| AI-ML        | Exploring    |
 
+---
+
+
+## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
+
 
 ## 🚀 What I'm Working On
-
-- 🚀 **Enhancing Python** skills with advanced projects.
-- 🎨 **Learning Tailwind CSS** to level up my web development.
-- 🤖 **Exploring AI & ML** to build intelligent applications.
-- 🐍 **Sharpening Data Structures & Algorithms** knowledge in Python.
+- 🚀 **Enhancing Python** skills through advanced projects
+- 🎨 **Learning Tailwind CSS** to enhance my web development skills
+- 🤖 **Exploring AI & ML** to build intelligent applications
+- 🐍 **Sharpening Data Structures & Algorithms** knowledge in Python
 
 
 ---
 
-## My Projects
+## 💻 My Projects
 ### 🔹 Python Projects  
 📌 [**Python-Projects**](https://github.com/uvpatel/Python-Projects) – A collection of small Python projects showcasing my learning and exploration.  
 - **Quiz Game**: An interactive quiz game testing general knowledge.  
@@ -45,10 +57,9 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 - **Number Guessing Game**: A game where the player guesses a randomly generated number within a range.  
 
 ### 🔹 Web Development Projects  
-📌 [**Web-Projects**](https://github.com/uvpatel/Web-Projects) – A repository containing various web development projects.  
-- **Medical Web**: A website designed for medical services and information.  
-- **Personal Portfolio**: My personal portfolio showcasing my skills, projects, and contact information.  
-
+📂 [Web-Projects Repo](https://github.com/uvpatel/Web-Projects)  
+- 💊 *Medical Web Project*: A responsive site for healthcare info.(Live :[Medical Web Project](https://mdcare.netlify.app/) 
+- 🧑‍💻 *Personal Portfolio*: My live showcase (Live: [Portfolio](https://urvilpatel-portfolio.netlify.app/))  
 ### 🔹 Major Projects  
 📌 [**Major-Projects**](https://github.com/uvpatel/Major-Projects) – A compilation of significant projects undertaken during my academic journey.  
 
@@ -67,10 +78,11 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 ---
 
 ## 🌍 Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="24"/>](https://github.com/uvpatel)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/urvil-patel-6995a0320)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24"/>](https://www.instagram.com/patelurvilv/)
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="24"/>](mailto:uvpatel7271@gmail.com)
+[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/uvpatel)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/urvil-patel-6995a0320)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/patelurvilv/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:uvpatel7271@gmail.com)
+
 
 ---
 
@@ -78,3 +90,14 @@ I'm a B.Tech student passionate about coding, web development, and exploring AI-
 > "Code is like poetry—sometimes it rhymes, sometimes it crashes!"
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
+## 🤝 Let’s Build Something Together!
+Got a cool project idea or want to collab? Hit me up—I’m always up for a coding adventure!🚀
+
+---
+## 🔖 Quote I Live By
+> 💻 *"Striving to create solutions, not just code."*
+
+---
