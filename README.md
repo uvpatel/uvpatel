@@ -73,7 +73,8 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ---
 
 ## 📈 My Contributions
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)](https://github.com/uvpatel)
+
 
 ---
 
