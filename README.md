@@ -63,14 +63,14 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ---
 
-## 📊 GitHub Stats
-![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)  
+## 📈 GitHub Stats
+  
+![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvpatel&theme=dracula)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=radical)
 
 ---
+
 
 ## 📈 My Contributions
 [![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)](https://github.com/uvpatel)
