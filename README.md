@@ -58,9 +58,13 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 - 💊 *Medical Web Project* — A responsive site for healthcare info. (Live: [Medical Web Project](https://mdcare.netlify.app/))  
 - 🧑‍💻 *Personal Portfolio* — My live showcase (Live: [Portfolio](https://urvilpatel-portfolio.netlify.app/))  
 
-### 🔹 Major Projects  
-📌 [**Major-Projects**](https://github.com/uvpatel/Major-Projects) — A compilation of significant projects undertaken during my academic journey.
+#### 🤖 AI Assistant Project  
+📌 [**AI Assistant Project**](https://github.com/uvpatel/Mega-Project) — A smart AI assistant built to streamline tasks and enhance productivity.  
+- 🎯 Voice-Enabled Commands – Interact using natural language processing (NLP).
 
+- 🔍 Smart Search & Recommendations – AI-powered insights and suggestions.
+
+- 🌐 Web & Desktop Integration – Runs smoothly on multiple platforms.
 ---
 
 ## 📈 GitHub Stats
