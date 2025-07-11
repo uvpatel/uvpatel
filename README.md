@@ -17,9 +17,25 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 | 💪 Skill       | 🔥 Level      |
 |----------------|-------------|
 | Python         | Intermediate |
-| C              | Beginner     |
-| HTML5 / CSS3   | Intermediate |
+| C              | Intermediate     |
+| C++              | Bigginer     |
+| HTML5 / CSS3   | Expert |
 | AI-ML          | Exploring    |
+| Flask         | Expert |
+| Django         | Beginner    |
+| Streamlit         | Pro    |
+| FastAPI         | Familiar    |
+| Virsion Control System | Intermediate    |
+| DBMS,Networking | Exploring    |
+| Numpy | Exploring    |
+| Pandas| Exploring    |
+|  Matplotlib | Familiar    |
+|  Seaborn | Familiar |
+|  Sklearn | Familiar |
+|  Pytoarch | Familiar |
+|  Tensorflow | Familiar |
+
+
 
 ---
 
