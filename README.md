@@ -102,7 +102,6 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
@@ -159,7 +158,7 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/urvil-patel-6995a0320)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/patelurvilv/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:uvpatel7271@gmail.com)
-[![Twitter](https://img.icons8.com/color/48/000000/twitterx--v1.png)](https://twitter.com/yourusername)
+[![Twitter](https://img.icons8.com/color/48/000000/twitterx--v1.png)](https://x.com/UrvilPatel_1708)
 
 
 ---
