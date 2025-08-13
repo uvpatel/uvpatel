@@ -159,7 +159,8 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/urvil-patel-6995a0320)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/patelurvilv/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:uvpatel7271@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-UrvilPatel__1708-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UrvilPatel_1708)
+[![Twitter](https://img.icons8.com/color/48/000000/twitterx--v1.png)](https://twitter.com/yourusername)
+
 
 ---
 
