@@ -138,11 +138,8 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ---
 
 ## 📈 GitHub Stats
-![Urvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvpatel&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=uvpatel&theme=dracula)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=uvpatel&theme=dark&hide_border=false)
 
 ---
 
@@ -165,7 +162,7 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ## 🎉 Fun Fact
 > "Code is like poetry — sometimes it rhymes, sometimes it crashes!"
-> "I’m more into building and coding than designing—I’d rather make it work flawlessly than pick the perfect shade of blue."
+> "I’m more into building and coding than designing—I’d rather make it work flawlessly than pick the perfect shade of blue."<br />
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
