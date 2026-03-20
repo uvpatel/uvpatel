@@ -13,51 +13,6 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ---
 
-## 🛠 Skills & Tools
-### 🌐 Web Development
-| 💪 Skill / Tool           | 🔥 Proficiency Level |
-|---------------------------|----------------------|
-| **HTML5 / CSS3(bootstrap)**          | Expert               |
-| **Flask**                 | Expert               |
-| **Django**                | Beginner             |
-| **Streamlit**             | Pro                  |
-| **FastAPI**               | Familiar             |
-
-### 🖥 Core CS Subjects & Tools
-| 💪 Skill / Tool           | 🔥 Proficiency Level |
-|---------------------------|----------------------|
-| **Python**                | Intermediate         |
-| **C**                     | Intermediate         |
-| **C++**                   | Intermediate         |
-| **js**                    | devlopment oriented   |
-| **Version Control (Git)** | Intermediate         |
-| **DBMS**                  | Exploring            |
-| **Networking**            | Exploring            |
-
-
-### 🤖 Machine Learning & Data Science
-| 💪 Skill / Tool           | 🔥 Proficiency Level |
-|---------------------------|----------------------|
-| **AI / Machine Learning** | Exploring            |
-| **NumPy**                 | Exploring            |
-| **Pandas**                | Exploring            |
-| **Matplotlib**            | Familiar             |
-| **Seaborn**               | Familiar             |
-| **Scikit-learn**          | beginner             |
-| **PyTorch**               | Familiar             |
-| **TensorFlow**            | Familiar             |
-
-### 🛠 Tools & IDEs
-| 💪 Tool / Environment     | 🔥 Proficiency Level |
-|---------------------------|----------------------|
-| **Visual Studio Code**     | Expert(Programming Perpactive)         |
-| **GitHub**                 | Intermediate         |
-| **Ancaonda**               |  Intermediate         |
-| **Jupyter Notebook/Lab**   | Pro (For Data Wrangling and ML     |
-| **Google Colab**           | Pro (for TPU Feture)               |
-| **Notion**                 | Pro (For Productivity POV)               |
----
-
 
 
 ---
@@ -65,24 +20,37 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ---
+
+### 🗄️ Database & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-0C0C0C?style=for-the-badge&logo=drizzle&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose ODM](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+--- 
 
 ### 🤖 Machine Learning & Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -90,26 +58,38 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
+### 🎨 UI Libraries & Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
+![React Bits](https://img.shields.io/badge/React_Bits-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### 🛠 Tools & IDEs
+
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 ## 🚀 What I'm Working On
 - 🐍 **Mastering Python** through advanced projects and real-world applications  
 - 🤖 **Exploring Data Science & Machine Learning** to create intelligent, data-driven solutions  
 - 📊 **Improving Data Structures & Algorithms** for efficient problem-solving  
-- 🎨 **Enhancing Web Development Skills** by building modern UI/UX interfaces using HTML, CSS, Tailwind CSS, and JavaScript  
+- 🎨 **Enhancing Web Development Skills** by building modern UI/UX interfaces using Next.js Tailwind  
 - 🧠 **Combining AI/ML with Web Development** to develop interactive, intelligent web applications  
 
 ---
