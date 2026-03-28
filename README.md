@@ -130,18 +130,46 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 - 🤖 **Notes AI** — AI-powered note-taking application  
   🔗 **Live:** https://startsnote-ai.vercel.app/
   
-#### 🤖 AI Assistant Project  
-📌 [**AI Assistant Project**](https://github.com/uvpatel/Mega-Project) — A smart AI assistant built to streamline tasks and enhance productivity.  
-- 🎯 Voice-Enabled Commands – Interact using natural language processing (NLP).
+#### 🤖 AI / ML Projects
 
-- 🔍 Smart Search & Recommendations – AI-powered insights and suggestions.
+- 🧠 **[AI/ML Assistant Project](https://github.com/uvpatel/Mega-Project)**  
+  A smart AI assistant built to streamline tasks and enhance productivity  
+  - 🎤 Voice-Enabled Commands — Interact using NLP-based voice input  
+  - 🔍 Smart Search & Recommendations — AI-powered insights & suggestions  
+  - 💻🌐 Cross-Platform Integration — Works on both web & desktop  
 
-- 🌐 Web & Desktop Integration – Runs smoothly on multiple platforms.
+- 📊 **[ML End-to-End Student Analysis](https://github.com/uvpatel/ML-0-Project)**  
+  Complete machine learning pipeline from data preprocessing to deployment  
+
+- 🤖 **[Agentic AI (TypeScript)](https://github.com/uvpatel/Agentic-Ai)**  
+  Agent-based AI system built using TypeScript for autonomous workflows  
+
+- ⚡ **[AI SDK Next.js App](https://github.com/uvpatel/AI-SDK-NEXTJS)**  
+  AI chat application using Next.js and Groq API for fast inference  
+
+- 🛠️ **[Claude Code Utility (CLI)](https://github.com/uvpatel/Python-GenAi/tree/main/Agentic-Ai/gemini/cli)**  
+  CLI tool inspired by Claude Code using Gemini API with OpenAI SDK compatibility  
+
+- 📈 **[Streamlit Data Apps](https://github.com/uvpatel/Hosted-Streamlit-)**  
+  Interactive data apps & KPI dashboards built using Streamlit  
+
+- 🚀 **[Career Conquer](https://carrier-conquer.onrender.com/)**  
+  AI-powered placement assistant platform  
+  - 📄 Resume Analyzer  
+  - 💬 AI Chatbot Interface  
+  - 🎯 Career Guidance Tools  
+  - ⚙️ Built with Flask, Groq & PhiDataModel  
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=uvpatel&theme=dark&hide_border=false)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=uvpatel&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uvpatel&layout=compact&theme=tokyonight)
+
+![Urvil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uvpatel&show_icons=true&theme=tokyonight)
 
 ---
 
