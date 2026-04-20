@@ -171,6 +171,9 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ![Urvil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uvpatel&show_icons=true&theme=tokyonight)
 
+
+ <img src="https://gitlyy.vercel.app/api/contribution?username=uvpatel&hide_border=true"/><br>
+
 ---
 
 
@@ -200,6 +203,20 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ## 🤝 Let’s Build Something Together!
 Got a cool project idea or want to collab? Hit me up — I’m always up for a coding adventure! 🚀
 
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uvpatel&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+
+---
+
+<div align=center>
+ 
+<img src="https://gitlyy.vercel.app/api/commits?username=uvpatel&hide_border=true"/>  
+
+<div align=center>
 ---
 
 ## 🔖 Quote I Live By
