@@ -3,6 +3,8 @@
 
 I’m passionate about turning ideas into real-world projects. I love coding, building websites, and diving into AI/ML to create intelligent solutions that make life easier.
 
+I'm 20 years old I am best engineer out there.i am because I believe that I am the best because every engineer should think like that or either better stay home.
+
 ---
 
 ## 📖 About Me
