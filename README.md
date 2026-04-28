@@ -178,6 +178,10 @@ I'm 20 years old I am best engineer out there.i am because I believe that I am t
 
 ---
 
+## 🧠 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=baloo)
+
+---
 
 ## 📈 My Contributions
 [![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)](https://github.com/uvpatel)
