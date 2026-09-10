@@ -93,6 +93,26 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 - 🧠 **Combining AI/ML with Web Development** to develop interactive, intelligent web applications  
 
 ---
+## My Hackathon
+### PeoplePay360
+📌 [**PeoplePay360**](https://github.com/uvpatel/peoplepay360) 
+- https://people-pay-self.vercel.app/dashboard
+
+### Globe Trotter
+📌 [**Globe Trotter**](https://github.com/uvpatel/Globe-Trotter)
+- https://odoo-ldce.vercel.app/
+
+
+### Rental Flow
+- [**RentalFlow**](https://github.com/uvpatel/rental-management)
+- https://rentify-five-black.vercel.app/
+
+### Agency CRM
+- [**AgencyCRM**](https://github.com/uvpatel/agency-crm)
+- https://dashboard-next-eta.vercel.app/
+
+### 
+---
 
 ## 💻 My Projects
 ### 🔹 Python Projects  
