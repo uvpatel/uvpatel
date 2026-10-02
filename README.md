@@ -203,43 +203,78 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ## 🧠 Problem Solving
 
+<div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-### ⚡ Contest Account
+### ⚡ LeetCode — Contest
+
+<a href="https://leetcode.com/u/uvpatel_7271/">
 
 <img
   src="https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=Fira%20Code&ext=heatmap"
-  alt="LeetCode Contest Statistics"
+  alt="LeetCode Contest Stats"
 />
+
+</a>
 
 </td>
 
 <td align="center" width="50%">
 
-### 📚 Problem Solving
+### 📚 LeetCode — Problems
 
 <img
   src="https://leetcard.jacoblin.cool/lLcHck0aLF?theme=dark&font=Fira%20Code&ext=heatmap"
-  alt="LeetCode Problem Solving Statistics"
+  alt="LeetCode Problem Solving Stats"
 />
 
 </td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🏆 Codeforces
+
+<a href="https://codeforces.com/profile/uvpatel">
+
+<img
+  src="https://codeforces-readme-stats.vercel.app/api/card?username=uvpatel"
+  alt="Codeforces Stats"
+/>
+
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔥 Competitive Programming
+
+**Platforms**
+
+`LeetCode` • `Codeforces`
+
+**Resources**
+
+`Striver SDE Sheet` • `NeetCode 150`
+
+**Focus**
+
+`DSA` • `Algorithms` • `Problem Solving` • `Contests`
+
+</td>
+
 </tr>
 </table>
 
-### 🎯 Current DSA Focus
-
-> Building consistency through structured problem solving, contests, and pattern-based DSA practice.
-
-**Current Focus**
-
-`Arrays` → `Two Pointers` → `Binary Search` → `Hashing` → `Linked Lists` → `Stack & Queue` → `Trees` → `Graphs` → `Dynamic Programming`
-
-**Practice Platforms**
-
-`LeetCode` • `Codeforces` • `Striver SDE Sheet`
+</div>
 
 ---
 
