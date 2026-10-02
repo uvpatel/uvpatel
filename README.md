@@ -228,7 +228,7 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ### 📚 LeetCode — Problems
 
 <img
-  src="https://leetcard.jacoblin.cool/lLcHck0aLF?theme=dark&font=Fira%20Code&ext=heatmap"
+  src="https://leetcard.jacoblin.cool/uvpatel?theme=dark&font=Fira%20Code&ext=heatmap"
   alt="LeetCode Problem Solving Stats"
 />
 
