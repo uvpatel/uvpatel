@@ -201,9 +201,45 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ---
 
-## 🧠 LeetCode Progress
+## 🧠 Problem Solving
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lLcHck0aLF?theme=dark\&font=Fira%20Code\&ext=heatmap)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ Contest Account
+
+<img
+  src="https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=Fira%20Code&ext=heatmap"
+  alt="LeetCode Contest Statistics"
+/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📚 Problem Solving
+
+<img
+  src="https://leetcard.jacoblin.cool/lLcHck0aLF?theme=dark&font=Fira%20Code&ext=heatmap"
+  alt="LeetCode Problem Solving Statistics"
+/>
+
+</td>
+</tr>
+</table>
+
+### 🎯 Current DSA Focus
+
+> Building consistency through structured problem solving, contests, and pattern-based DSA practice.
+
+**Current Focus**
+
+`Arrays` → `Two Pointers` → `Binary Search` → `Hashing` → `Linked Lists` → `Stack & Queue` → `Trees` → `Graphs` → `Dynamic Programming`
+
+**Practice Platforms**
+
+`LeetCode` • `Codeforces` • `Striver SDE Sheet`
 
 ---
 
