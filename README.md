@@ -202,7 +202,8 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 ---
 
 ## 🧠 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=baloo)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lLcHck0aLF?theme=dark\&font=Fira%20Code\&ext=heatmap)
 
 ---
 
