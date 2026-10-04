@@ -220,7 +220,21 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
     src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308"
     alt="NeetCode Stats"
   />
+
+  <img
+    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=tree"
+    alt="NeetCode Stats"
+  />
+
+   <img
+    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=heatmap"
+    alt="NeetCode Stats"
+  />
+
+
 </p>
+
+
 
 <p align="center">
   <a href="https://neetcode.io/user/ThunderBlastoise308">
