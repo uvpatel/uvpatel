@@ -201,6 +201,14 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ---
 
+
+
+
+
+
+
+---
+
 ## 🧠 Problem Solving
 
 <div align="center">
@@ -210,31 +218,28 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 <td align="center" width="50%">
 
-
-
-
-## 🧠 NeetCode Progress
+### 🧠 NeetCode Progress
 
 <p align="center">
   <img
     src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308"
     alt="NeetCode Stats"
   />
-
-  <img
-    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=tree"
-    alt="NeetCode Stats"
-  />
-
-   <img
-    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=heatmap"
-    alt="NeetCode Stats"
-  />
-
-
 </p>
 
+<p align="center">
+  <img
+    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=tree"
+    alt="NeetCode Topic Tree"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308&view=heatmap"
+    alt="NeetCode Heatmap"
+  />
+</p>
 
 <p align="center">
   <a href="https://neetcode.io/user/ThunderBlastoise308">
@@ -244,14 +249,14 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ### ⚡ LeetCode — Contest
 
-<a href="https://leetcode.com/u/uvpatel_7271/">
-
-<img
-  src="https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=Fira%20Code&ext=heatmap"
-  alt="LeetCode Contest Stats"
-/>
-
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/uvpatel_7271/">
+    <img
+      src="https://leetcard.jacoblin.cool/uvpatel_7271?theme=dark&font=Fira%20Code&ext=heatmap"
+      alt="LeetCode Contest Stats"
+    />
+  </a>
+</p>
 
 </td>
 
@@ -259,10 +264,14 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ### 📚 LeetCode — Problems
 
-<img
-  src="https://leetcard.jacoblin.cool/uvpatel?theme=dark&font=Fira%20Code&ext=heatmap"
-  alt="LeetCode Problem Solving Stats"
-/>
+<p align="center">
+  <a href="https://leetcode.com/u/uvpatel_7271/">
+    <img
+      src="https://leetcard.jacoblin.cool/uvpatel?theme=dark&font=Fira%20Code&ext=heatmap"
+      alt="LeetCode Problem Solving Stats"
+    />
+  </a>
+</p>
 
 </td>
 
@@ -274,14 +283,14 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ### 🏆 Codeforces
 
-<a href="https://codeforces.com/profile/uvpatel">
-
-<img
-  src="https://codeforces-readme-stats.vercel.app/api/card?username=uvpatel"
-  alt="Codeforces Stats"
-/>
-
-</a>
+<p align="center">
+  <a href="https://codeforces.com/profile/uvpatel">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=uvpatel"
+      alt="Codeforces Stats"
+    />
+  </a>
+</p>
 
 </td>
 
@@ -289,17 +298,25 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 ### 🔥 Competitive Programming
 
-**Platforms**
+<p align="center">
 
-`LeetCode` • `Codeforces`
+<strong>Platforms</strong><br/>
 
-**Resources**
+<code>LeetCode</code> • <code>Codeforces</code>
 
-`Striver SDE Sheet` • `NeetCode 150`
+<br/><br/>
 
-**Focus**
+<strong>Resources</strong><br/>
 
-`DSA` • `Algorithms` • `Problem Solving` • `Contests`
+<code>Striver SDE Sheet</code> • <code>NeetCode 150</code>
+
+<br/><br/>
+
+<strong>Focus</strong><br/>
+
+<code>DSA</code> • <code>Algorithms</code> • <code>Problem Solving</code> • <code>Contests</code>
+
+</p>
 
 </td>
 
@@ -307,6 +324,10 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 </table>
 
 </div>
+
+---
+
+
 
 ---
 
