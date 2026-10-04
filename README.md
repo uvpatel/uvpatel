@@ -210,6 +210,24 @@ I’m passionate about turning ideas into real-world projects. I love coding, bu
 
 <td align="center" width="50%">
 
+
+
+
+## 🧠 NeetCode Progress
+
+<p align="center">
+  <img
+    src="https://neetcode-stats.vercel.app/api/neetcode?username=ThunderBlastoise308"
+    alt="NeetCode Stats"
+  />
+</p>
+
+<p align="center">
+  <a href="https://neetcode.io/user/ThunderBlastoise308">
+    View NeetCode Profile →
+  </a>
+</p>
+
 ### ⚡ LeetCode — Contest
 
 <a href="https://leetcode.com/u/uvpatel_7271/">
